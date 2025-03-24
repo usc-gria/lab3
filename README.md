@@ -16,6 +16,8 @@ Es posible que sea necesario implementar alguna otra función especial, revisa c
 
 Actualiza el UML con las nuevas funcionalidades, clases y atributos.
 
+Modulariza el main (si no lo has hecho aún) usando funciones para cada submenú.
+
 
 ### **0. Implementa los TAD**
 
