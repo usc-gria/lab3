@@ -12,11 +12,13 @@
 #### Comentarios generales
 Implementa en las clases que creas conveniente, la función especial `__eq__(self)`.
 Esto permitirá especificar como se deben comparar dos objetos de la misma clase (dos canciones, por ejemplo).
-Es posible que sea necesario implementar alguna otra función especial, revisa cuales son.
+Es posible que sea necesario implementar alguna otra función especial, revisa cuáles son.
 
 Actualiza el UML con las nuevas funcionalidades, clases y atributos.
 
 Modulariza el main (si no lo has hecho aún) usando funciones para cada submenú.
+
+Debes copiar los archivos de la práctica 2 en esta práctica e incluir los comentarios y feedback de su revisión.
 
 
 ### **0. Implementa los TAD**
@@ -85,7 +87,6 @@ Funciona de la siguiente manera:
    - Se muestran las canciones populares restantes como recomendación.
 
 *Nota*: Deberás extender la clase canción para añadir el número de reproducciones como atributo.
-
 
 
 
